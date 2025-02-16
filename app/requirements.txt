@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+requests
+httpx
+pytesseract
+pillow
+speechrecognition
+markdown
+gitpython
+beautifulsoup4
+numpy
+python-dateutil
